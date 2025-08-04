@@ -140,7 +140,7 @@ const allowedOrigins = [
   'http://localhost:5173', // Vite default dev server
   'http://localhost:3000', // Common React dev server
   'https://www.yttoolbox.com', // Production domain
-  'https://yttoolbox.com' // Production domain with www
+  'https://yttoolbox.com'
 ];
 
 const corsOptions: cors.CorsOptions = {
